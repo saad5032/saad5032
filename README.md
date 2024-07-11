@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhbm5lcnxlbnwwfHx8fDE2MzM5NTgyNjI&ixlib=rb-1.2.1&q=80&w=1080)]
+![MasterHead](https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhbm5lcnxlbnwwfHx8fDE2MzM5NTgyNjI&ixlib=rb-1.2.1&q=80&w=1080)
 
 <h1 align="center">Hi 👋, I'm Saaduddin Syed</h1>
 <h3 align="center">A passionate full stack developer from USA</h3>
