@@ -1,17 +1,13 @@
 ![MasterHead](https://images.unsplash.com/photo-1529101091764-c3526daf38fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fGJhbm5lcnxlbnwwfHx8fDE2MzM5NTgyNjI&ixlib=rb-1.2.1&q=80&w=1080)
 
 <h1 align="center">Hi 👋, I'm Saaduddin Syed</h1>
-<h3 align="center">A passionate full stack developer from USA</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad5032&label=Profile%20views&color=0e75b6&style=flat" alt="saad5032" /> </p>
 
-- 🔭 I’m currently working on [Mythical shoes website (React)](https://mythical-rose.vercel.app)
+- 🔭 I’m currently working on eCommerce web application using React as frontend and Spring boot as backend
 
-- 🌱 For backend I am working with **Core Java, Spring boot, Docker, Kubernetes**
-
-- 👯 I’m also working on [Mosque dashboard (Angular)](dev.babulilmlrc.org)
-
-- 👨‍💻 You can know about me on [syedcoder.com](syedcoder.com)
+- 👯 Graduate Assitanship Project [Education website (Angular) <a href="https://dev.babulilmlrc.org/login">dev.babulilmlrc.org</a> 
 
 - 📫 How to reach me **syedsaaduddin019@gmail.com**
 
