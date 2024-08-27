@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad5032&label=Profile%20views&color=0e75b6&style=flat" alt="saad5032" /> </p>
 
-- 🔭 I’m currently working on eCommerce web application using React as frontend and Spring boot as backend
+- 🔭 I’m currently working on eCommerce web application using React and Next JS.
 
 - 👯 Graduate Assitanship Project [Education website (Angular) <a href="https://dev.babulilmlrc.org/login">dev.babulilmlrc.org</a> 
 
