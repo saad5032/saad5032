@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on eCommerce web application using React and Next JS.
 
-- 👯 Graduate Assitanship Project [Education website (Angular) <a href="https://dev.babulilmlrc.org/login">dev.babulilmlrc.org</a> 
+- 👯 I am also currently working on Education website (Angular) <a href="https://dev.babulilmlrc.org/login">dev.babulilmlrc.org</a> 
 
 - 📫 How to reach me **syedsaaduddin019@gmail.com**
 
