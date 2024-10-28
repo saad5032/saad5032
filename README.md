@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad5032&label=Profile%20views&color=0e75b6&style=flat" alt="saad5032" /> </p>
 
 <p>Full Stack Developer with hands-on experience specializing in frontend framework React, Angular and backend with Java, Hibernate, Spring technologies (MVC, Spring 4, Core, Boot, Integrations, Security) across diverse domains.</p>
-<p>Proficient in creating user interfaces using CSS, HTML5, JavaScript, Node.js with frameworks Angular JS and React JS.</p> 
+<p>Proficient in creating user interfaces using CSS, HTML5, JavaScript, Node.js with frameworks Angular and React</p> 
 <p>Skilled in architecting and deploying robust web applications using Java and Spring Framework.</p>
-<p>Proficient in engineering and deploying sophisticated backend systems, web services, and databases within a Waterfall SDLC environment.</p>
+<p>Proficient in engineering REST API's and deploying sophisticated backend systems, web services, and databases within a Waterfall SDLC environment.</p>
 
 - 📫 How to reach me **syedsaaduddin019@gmail.com**
 
