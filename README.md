@@ -5,9 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad5032&label=Profile%20views&color=0e75b6&style=flat" alt="saad5032" /> </p>
 
-- 🔭 I’m currently working on eCommerce web application using React and Next JS.
-
-- 👯 I am also currently working on Education website (Angular) <a href="https://dev.babulilmlrc.org/login">dev.babulilmlrc.org</a> 
+•	Full Stack Developer with hands-on experience specializing in frontend framework React, Angular and backend with Java, Hibernate, Spring technologies (MVC, Spring 4, Core, Boot, Integrations, Security) across diverse domains.
+•	Proficient in creating user interfaces using CSS, HTML5, JavaScript, Node.js with frameworks Angular JS and React JS. 
+•	Skilled in architecting and deploying robust web applications using Java and Spring Framework.
+•	Proficient in engineering and deploying sophisticated backend systems, web services, and databases within a Waterfall SDLC environment.
 
 - 📫 How to reach me **syedsaaduddin019@gmail.com**
 
